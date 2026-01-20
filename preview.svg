@@ -11,31 +11,81 @@
   <circle cx="980" cy="140" r="160" fill="#12b69b" opacity="0.22" />
   <circle cx="260" cy="520" r="180" fill="#ff4d6d" opacity="0.2" />
   <text
-    x="100"
-    y="280"
-    fill="#fff4cf"
-    font-family="Arial, sans-serif"
-    font-size="80"
-    font-weight="700"
-  >
-    U23 Score Predictor
-  </text>
-  <text
-    x="100"
-    y="360"
-    fill="#f3f0e7"
-    font-family="Arial, sans-serif"
-    font-size="36"
-  >
-    Vietnam U23 vs China U23
-  </text>
-  <text
-    x="100"
-    y="430"
+    x="80"
+    y="130"
     fill="#d4f35e"
     font-family="Arial, sans-serif"
     font-size="28"
+    font-weight="700"
+    letter-spacing="6"
   >
-    Tap to predict the score
+    U23 SCORE PREDICTOR
+  </text>
+
+  <rect x="90" y="210" width="360" height="240" rx="24" fill="#da251d" />
+  <polygon
+    fill="#ffde00"
+    points="270 240 292 300 355 300 304 335 322 396 270 360 218 396 236 335 185 300 248 300"
+  />
+  <text
+    x="270"
+    y="470"
+    fill="#f3f0e7"
+    font-family="Arial, sans-serif"
+    font-size="28"
+    text-anchor="middle"
+  >
+    Vietnam U23
+  </text>
+
+  <rect x="750" y="210" width="360" height="240" rx="24" fill="#de2910" />
+  <g fill="#ffde00" transform="translate(780 235)">
+    <g transform="scale(0.6)">
+      <polygon points="50 5 61 39 98 39 68 59 79 91 50 70 21 91 32 59 2 39 39 39" />
+    </g>
+    <g transform="translate(120 0) scale(0.25)">
+      <polygon points="50 5 61 39 98 39 68 59 79 91 50 70 21 91 32 59 2 39 39 39" />
+    </g>
+    <g transform="translate(145 35) scale(0.25)">
+      <polygon points="50 5 61 39 98 39 68 59 79 91 50 70 21 91 32 59 2 39 39 39" />
+    </g>
+    <g transform="translate(145 80) scale(0.25)">
+      <polygon points="50 5 61 39 98 39 68 59 79 91 50 70 21 91 32 59 2 39 39 39" />
+    </g>
+    <g transform="translate(120 115) scale(0.25)">
+      <polygon points="50 5 61 39 98 39 68 59 79 91 50 70 21 91 32 59 2 39 39 39" />
+    </g>
+  </g>
+  <text
+    x="930"
+    y="470"
+    fill="#f3f0e7"
+    font-family="Arial, sans-serif"
+    font-size="28"
+    text-anchor="middle"
+  >
+    China U23
+  </text>
+
+  <text
+    x="600"
+    y="330"
+    fill="#fff4cf"
+    font-family="Arial, sans-serif"
+    font-size="40"
+    font-weight="700"
+    text-anchor="middle"
+  >
+    2 : 1
+  </text>
+  <text
+    x="600"
+    y="380"
+    fill="#f3f0e7"
+    font-family="Arial, sans-serif"
+    font-size="22"
+    text-anchor="middle"
+  >
+    PREDICTED SCORE
   </text>
 </svg>
