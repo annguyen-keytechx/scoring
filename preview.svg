@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b0d12" />
+      <stop offset="60%" stop-color="#121826" />
+      <stop offset="100%" stop-color="#0d1a24" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <circle cx="180" cy="150" r="120" fill="#ffc40c" opacity="0.2" />
+  <circle cx="980" cy="140" r="160" fill="#12b69b" opacity="0.22" />
+  <circle cx="260" cy="520" r="180" fill="#ff4d6d" opacity="0.2" />
+  <text
+    x="100"
+    y="280"
+    fill="#fff4cf"
+    font-family="Arial, sans-serif"
+    font-size="80"
+    font-weight="700"
+  >
+    U23 Score Predictor
+  </text>
+  <text
+    x="100"
+    y="360"
+    fill="#f3f0e7"
+    font-family="Arial, sans-serif"
+    font-size="36"
+  >
+    Vietnam U23 vs China U23
+  </text>
+  <text
+    x="100"
+    y="430"
+    fill="#d4f35e"
+    font-family="Arial, sans-serif"
+    font-size="28"
+  >
+    Tap to predict the score
+  </text>
+</svg>
